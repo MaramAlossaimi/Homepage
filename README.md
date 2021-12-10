@@ -14,9 +14,9 @@
 
 + some-text + 
 
-<style>H1{color:Blue;}<style>
+<style>H2{color:Blue;}<style>
 
-<style>H2{color:DarkOrange;}</style>
+<style>H1{color:DarkOrange;}</style>
 
 
  ![](1.png)
