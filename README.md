@@ -14,7 +14,7 @@
 
 + some-text + 
 
-$f$
+<style>H1{color:Blue;}<style>
 
 
 
