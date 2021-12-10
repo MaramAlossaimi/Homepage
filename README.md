@@ -3,7 +3,7 @@
 
 
 - my name is Maram 
-- \color**blue** I am 31 old
+- color <- "blue" I am 31 old
 <<<<<<< HEAD
 
  [Link to another page](http://www.google.com) 
