@@ -12,6 +12,6 @@
 =======
  [Link to another page](http://www.google.com) 
 
- ![](1)
+ ![](1.png)
  
 >>>>>>> main
