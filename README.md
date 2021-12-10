@@ -11,5 +11,7 @@
 ![sss](https://raw.githubusercontent.com/RSE-Sheffield/RSE-Sheffield.github.io/master/assets/images/logo/rse-logoonly-stroke-small.png)
 =======
  [Link to another page](http://www.google.com) 
+
+ ![](1)
  
 >>>>>>> main
