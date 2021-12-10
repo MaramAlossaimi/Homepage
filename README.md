@@ -16,7 +16,7 @@
 
 <style>H1{color:Blue;}<style>
 
-<style>H2{color:green;}<style>
+<style>H2{color:Green;}<style>
 
 
  ![](1.png)
