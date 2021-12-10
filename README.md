@@ -12,11 +12,10 @@
 =======
  [Link to another page](http://www.google.com) 
 
-<style
-  type="text/css">
-h1 {color:red;}
++ some-text + 
 
-[Red text] text in red color
+
+
 
 
 
