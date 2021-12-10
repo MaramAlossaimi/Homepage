@@ -12,13 +12,9 @@
 =======
  [Link to another page](http://www.google.com) 
 
-```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
+
+[Red text] text in red color
+
 
 
  ![](1.png)
